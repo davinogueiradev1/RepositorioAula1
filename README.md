@@ -1,3 +1,5 @@
 # RepositorioAula1
 
 ESTA É A AULA 1
+
+EST TERMINANDO ESTA ATIVIDADE EM CASA!!!
